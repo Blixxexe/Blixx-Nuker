@@ -1,0 +1,17 @@
+keyboard
+bs4
+colorama
+requests
+fade
+psutil
+requests
+selenium
+pycryptodome
+pypiwin32
+PIL-Tools
+pylibcheck
+pyinstaller
+psutil
+keyboard
+httpx
+pipwin
