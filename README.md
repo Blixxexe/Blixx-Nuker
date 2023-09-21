@@ -1,6 +1,6 @@
 # Blixx-Nuker
 
-# Instalation
+# installation
 
 - For Download this Account Nuker just
 
